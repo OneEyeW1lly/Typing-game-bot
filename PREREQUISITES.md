@@ -11,3 +11,7 @@ open a command prompt in the Typing-game-bot folder and type:
 npm init
 
 npm i puppeteer
+
+once you do all this go into the Typying-game-bot folder and type:
+
+node app.js
